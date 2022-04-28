@@ -1,0 +1,1 @@
+work on project locally then create the repo on github and push it to remote
